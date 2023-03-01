@@ -9,7 +9,7 @@ const port = 3000;
 
 // Set up the Clarifai API client with your API key
 const clarifai = new Clarifai.App({
-  apiKey: '077d81b6389b445a9f551a4c8540ed9c'
+  apiKey: ''
 });
 
 // Use bodyParser middleware to parse request bodies as JSON
